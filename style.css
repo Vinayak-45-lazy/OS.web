@@ -357,3 +357,41 @@ input[type="email"]{
     shape-margin: 2px;
     
 }
+@media (max-width: 600px){
+    .logo{
+        font-size: 12px;
+        width: 50px;
+    }
+    .logo1{
+        font-size: 12px;
+        width: 50px;
+    }
+    .bulb{
+        width: 50px;
+    }
+    .bulb2{
+        width: 50px;
+    }
+    .bulb3{
+        width: 50px;
+    }
+}
+@media (max-width: 1024px){
+    .logo{
+        font-size: 12px;
+        width: 70px;
+    }
+    .logo1{
+        font-size: 12px;
+        width: 70px;
+    }
+    .bulb{
+        width: 70px;
+    }
+    .bulb2{
+        width: 70px;
+    }
+    .bulb3{
+        width: 70px;
+    }
+}
